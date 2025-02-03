@@ -12,3 +12,10 @@ A simple **C-based Library Management System** that allows users to **add, delet
 
 ## Installation 🛠
 1. Clone the repository:
+2. Compile the program using GCC:
+3. Run the executable:
+
+## Usage 🏗
+- Enter **1** to login.
+- Choose from the available operations in the **Main Menu**.
+- Enter book details in the required format.
